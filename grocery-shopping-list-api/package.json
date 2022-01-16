@@ -1,0 +1,24 @@
+{
+  "name": "grocery-shopping-list-backend",
+  "version": "1.0.0",
+  "description": "An Express-based application skeleton",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app.js localhost 8080"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^12.0.3",
+    "express": "^4.16.4",
+    "mongoose": "^6.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "keywords": [
+    "expressjs",
+    "express"
+  ]
+}
