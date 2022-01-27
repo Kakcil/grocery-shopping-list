@@ -9,6 +9,10 @@ The products in the list can be added, removed and edited.
 
 The data is stored in MongoDB on the remote server.
 
+# Case Description
+
+"Create a grocery shopping list. You can add items in the frontend. This data is stored in the backend. The list shows the items. You can create new items, you can delete items and you can modify items. So, if you want to change "tomaeteos" (misspelled) to "tomatoes", you can. All updated are stored in backend."
+
 # Output
 
 ![review](ui.gif)
